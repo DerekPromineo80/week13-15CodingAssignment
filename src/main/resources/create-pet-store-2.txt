@@ -1,0 +1,8 @@
+{
+  "petStoreName": "Exotic Pet Store",
+  "petStoreAddress": "1600 Virginia Ave",
+  "petStoreCity": "Richmond",
+  "petStoreState": "Virginia",
+  "petStoreZip" : "22222",
+  "petStorePhone": "202-322-4995"
+}

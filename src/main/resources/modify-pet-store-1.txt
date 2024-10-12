@@ -1,0 +1,8 @@
+{
+  "petStoreName": "Really Super Cool Pet Store",
+  "petStoreAddress": "8118 North Gladford Lane",
+  "petStoreCity": "Kalamazoo",
+  "petStoreState": "Michigan",
+  "petStoreZip" : "11111",
+  "petStorePhone": "401-321-3111"
+}

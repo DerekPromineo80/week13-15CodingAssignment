@@ -1,0 +1,8 @@
+{
+  "petStoreName": "Georgia Pet Store",
+  "petStoreAddress": "3000 Georgia Ave",
+  "petStoreCity": "Atlanta",
+  "petStoreState": "Georgia",
+  "petStoreZip" : "33333",
+  "petStorePhone": "804-323-9993"
+}
