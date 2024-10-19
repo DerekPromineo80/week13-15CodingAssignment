@@ -1,8 +1,8 @@
 {
-  "petStoreName": "Really Cool Pet Store",
-  "petStoreAddress": "8395 North Bladford Lane",
-  "petStoreCity": "Gangrene",
-  "petStoreState": "Georgia",
-  "petStoreZip" : "12345",
-  "petStorePhone": "303-322-4995"
+  "petStoreName": "Original Pet Store",
+  "petStoreAddress": "72334 South Branch Ave",
+  "petStoreCity": "Dover",
+  "petStoreState": "Delaware",
+  "petStoreZip" : "11111",
+  "petStorePhone": "202-322-1111"
 }
